@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Impressum.md
+Allow: /
