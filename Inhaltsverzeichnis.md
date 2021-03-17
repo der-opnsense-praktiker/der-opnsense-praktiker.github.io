@@ -71,6 +71,7 @@
 * Interface anlegen
 * Netze definieren
 * Firewallregeln
+* Zwei-Faktor-Authentifizierung
 
 
 ## Teil 3: F&uuml;r Experten

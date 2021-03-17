@@ -2,7 +2,7 @@
 
 Simple Paketfilter waren gestern. Selbst im Open-Source-Bereich sind die Next-Generation Firewalls angekommen. Und [OPNsense](https://opnsense.org/) mischt ganz vorne mit, wenn es um Einbruchserkennung, Applikationskontrolle, Web-Filter oder Anti-Virus geht.
 
-__Das Buch ist erh&auml;ltlich seit August 2018 als E-Book oder gedrucktes Buch.__
+__Die dritte Auflage ist erh&auml;ltlich ab April 2021 als E-Book oder gedrucktes Buch.__
 
 Ein Blick ins [Inhaltsverzeichnis](Inhaltsverzeichnis.md).
 
