@@ -4,7 +4,7 @@ Simple Paketfilter waren gestern. Selbst im Open-Source-Bereich sind die Next-Ge
 
 __Die dritte Auflage ist erh&auml;ltlich ab April 2021 als gedrucktes Buch.__
 
-__Das E-Book ist f&uuml;r Juli 2021 angek&uuml;ndigt.__
+__Das E-Book ist seit Juli 2021 verf&uuml;gbar.__
 
 
 Ein Blick ins [Inhaltsverzeichnis](Inhaltsverzeichnis.md).
