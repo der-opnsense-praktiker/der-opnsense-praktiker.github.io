@@ -9,12 +9,8 @@
 
 # [de] Zugriff zur JumpCloud API
 # [en] Access the JumpCloud API
-set apiKey=7e2563b0ca4c7988cf8ce0ec644da128351a3b62
+set apiKey=7e2563b0cac47988cf8c0eec644da21385a12345
 set radiusId=5a04df3ffe73e29b568b6af3
-
-# during development, ANON
-set apiKey=7e2563b0cac47988cf8c0eec644da21385a136b2
-set radiusId=59fe206fb63f4b3053ce0e55
 
 # [de] haben wir einen API-Schluessel?
 # [en] check if an API key is present
@@ -25,7 +21,7 @@ endif
 
 # [de] eigene oeffentliche IP-Adresse ermitteln
 # [en] get the public IP address of this host
-set newIp = `curl --silent http://ipecho.net/plain`
+set newIp = `curl --silent https://api.ipify.org/`
 if ( $? != 0 ) then
   echo "Unable to determine newIp, exiting..."
   exit 2
@@ -49,7 +45,7 @@ sed -i -e 's/"networkSourceIp".*/"networkSourceIp" : "'${newIp}'",/' /tmp/curren
 
 # [de] neue IP-Adresse bei JumpCloud hinterlegen
 # [en] upload the new IP address to JumpCloud
-curl -X PUT \
+curl -X PUT --silent \
   -H 'Content-Type: application/json' \
   -H 'Accept: application/json' \
   -H "x-api-key: $apiKey" \
