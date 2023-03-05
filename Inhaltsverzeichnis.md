@@ -2,7 +2,14 @@
 
 ## Teil 1: F&uuml;r Einsteiger
 
-#### 1. Das Labornetzwerk
+#### 1. Quickstart
+* Was ist OPNsense?
+* IP-Adresse
+* Einrichtung
+* Übersicht
+* Zusammenfassung
+
+#### 2. Labornetzwerk
 * Ressourcen
 * Virtualisierung
 * Hardware
@@ -12,29 +19,22 @@
 * Labor-Server
 * Verwendung
 
-#### 2. Plattform
+#### 3. Plattform
 * Vorbereitung
 * VMware
 * VirtualBox
 * Hardware
 
-#### 3. Installation
+#### 4. Installation
 * Betriebssystem
 * Speichermedium
 * Nacharbeiten
 
-#### 4. Ersteinrichtung
+#### 5. Ersteinrichtung
 * Ersteinrichtung
 * Zweiteinrichtung
 * Routing
 * Generalprobe
-
-#### 5. IP Version 6
-* Grundlagen
-* Laboraufbau
-* Adressen und Routen
-* Clients
-* Verbindungen
 
 
 ## Teil 2: F&uuml;r Fortgeschrittene
@@ -47,6 +47,7 @@
 * Durchsatz
 * Best Practice
 * Zusätzliche Filter
+* GeoIP
 * Technischer Hintergrund
 * Reihenfolge der Abarbeitung
 * Fehlersuche
@@ -67,7 +68,7 @@
 * NAT Reflection
 * Technischer Hintergrund
 
-#### 9. Management Interface
+#### 9. Management-Interface
 * Interface anlegen
 * Netze definieren
 * Firewallregeln
@@ -98,7 +99,6 @@
 * Fehlersuche
 * Zertifikate
 * Technischer Hintergrund
-* Ausblick
 
 #### 12. Hochverfügbarkeit
 * Grundlagen
@@ -123,7 +123,7 @@
 * Laboraufbau
 * Expliziter Proxy
 * Proxy-Cluster
-* SSL Inception
+* TLS Inception
 * Transparenter Proxy
 * Technischer Hintergrund
 * Was geht nicht?
@@ -134,13 +134,14 @@
 * Laboraufbau
 * Microsoft Server
 * Directory-as-a-Service
+* Zwei-Faktor-Authentifizierung
 * Fehlersuche
 * Technischer Hintergrund
 
 
 ## Teil 4: F&uuml;r Praktiker
 
-#### 16. Multi WAN
+#### 16. Multi-WAN
 * Anforderung
 * Lastverteilung im WAN
 * Laborumgebung
@@ -170,7 +171,6 @@
 * IDS einschalten
 * IPS einschalten
 * Transparentes IDS
-* GeoIP
 * Technischer Hintergrund
 
 #### 19. Kommandozeile
@@ -226,8 +226,10 @@
 
 ## Anhang
 
-#### A. Editor unter FreeBSD
+#### A. IP Version 6
 
-#### B. Mustererkennung
+#### B. Editor unter FreeBSD
 
-#### C. Zusatzmaterial
+#### C. Mustererkennung
+
+#### D. Zusatzmaterial
