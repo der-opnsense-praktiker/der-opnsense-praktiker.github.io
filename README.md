@@ -6,7 +6,7 @@ __Die dritte Auflage ist erh&auml;ltlich ab April 2021 als gedrucktes Buch.__
 
 __Das E-Book ist seit Juli 2021 verf&uuml;gbar.__
 
-__Die vierte Auflage erscheint im Mai 2023.__
+__Die vierte Auflage erscheint im April 2023.__
 
 
 Ein Blick ins [Inhaltsverzeichnis](Inhaltsverzeichnis.md).
