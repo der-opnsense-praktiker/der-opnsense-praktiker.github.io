@@ -38,7 +38,7 @@ Fast alle Kapitel benutzen denselben Netzaufbau und diegleichen IPv4/IPv6-Adress
 
 * Das [Korrekturverzeichnis](errata.pdf) listet die inhaltlichen Fehler und ihre Verbesserung.
 
-* Buch kaufen bei [Amazon](https://www.amazon.de/dp/3753482803) oder [BoD](https://www.bod.de/buchshop/der-opnsense-praktiker-markus-stubbig-9783753482804)
+* Buch kaufen bei [Amazon](https://www.amazon.de/dp/3753482803) oder [BoD](https://www.bod.de/buchshop/der-opnsense-praktiker-markus-stubbig-9783751920469)
 
 * Kontakt zum Autor per [E-Mail](mailto:der.opnsense.praktiker@gmail.com)
 
