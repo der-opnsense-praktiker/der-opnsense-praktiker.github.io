@@ -1,2 +1,2 @@
 # Kapitel 02
-# Plattform
+# Labornetzwerk
