@@ -258,7 +258,7 @@
       <permitrootlogin>1</permitrootlogin>
     </ssh>
     <firmware>
-      <mirror>https://mirror.auf-feindgebiet.de/opnsense</mirror>
+      <mirror/>
       <flavour/>
     </firmware>
     <disablebeep>1</disablebeep>
