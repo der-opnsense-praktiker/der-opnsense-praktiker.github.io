@@ -2,7 +2,7 @@
 
 Simple Paketfilter waren gestern. Selbst im Open-Source-Bereich sind die Next-Generation Firewalls angekommen. Und [OPNsense](https://opnsense.org/) mischt ganz vorn mit, wenn es um Einbruchserkennung, Applikationskontrolle, Web-Filter oder Antivirus geht.
 
-__Die vierte Auflage ist erh&auml;ltlich ab M&auml;rz 2023 als gedrucktes Buch. Das E-Book ist seit April 2023 verf&uuml;gbar.__
+__Die f&uuml;nfte Auflage ist erh&auml;ltlich ab April 2025 als gedrucktes Buch. Das E-Book ist ab Mai 2025 verf&uuml;gbar.__
 
 
 Ein Blick ins [Inhaltsverzeichnis](Inhaltsverzeichnis.md).
@@ -12,11 +12,11 @@ Ein Blick ins [Inhaltsverzeichnis](Inhaltsverzeichnis.md).
 
 ![Cover image](images/brickwall_256px.png)
 
-Kein Netz ist zu unbedeutend, um nicht angegriffen zu werden. Selbst Heimnetze, Armbanduhren und Lichtschalter sind bedroht und erwarten eine sichere Umgebung.
+Kein Netz ist zu unbedeutend, um nicht angegriffen zu werden. Auch Heimnetze, Armbanduhren und Lichtschalter sind bedroht und erwarten eine sichere Umgebung.
 
-Eine Firewall ist ein Baustein im Sicherheitskonzept. Sie sch&uuml;tzt vor bekannten und neuen Gefahren f&uuml;r Computer und Netzwerke. Den besten Schutz bietet eine Firewall, wenn ihre Funktionen bekannt sind, sie einfach zu bedienen ist und sie optimal in die umgebende Infrastruktur integriert ist. __OPNsense__ stellt sich dieser Herausforderung und erf&uuml;llt die Kriterien auf unterschiedliche Weise. Dieses Buch ist der ideale Begleiter, um __OPNsense__ zu verstehen, zu installieren und zu konfigurieren.
+Eine Firewall ist ein Baustein im Sicherheitskonzept. Sie sch&uuml;tzt vor bekannten und neuen Gefahren für Computer und Netzwerke. Den besten Schutz bietet eine Firewall, wenn ihre Funktionen bekannt sind, sie einfach zu bedienen ist und sie optimal in die umgebende Infrastruktur integriert ist. __OPNsense__ stellt sich dieser Herausforderung und erf&uuml;llt die Kriterien auf vielfältige Weise. Dieses Buch ist der ideale Begleiter, um __OPNsense__ zu verstehen, zu installieren und zu konfigurieren.
 
-Jedes Kapitel erl&auml;utert eine Problemsituation, beschreibt die theoretischen Grundlagen und stellt ein Laborexperiment zum Nachahmung vor. Abschlie&szlig;end zeigt es den L&ouml;sungsansatz mit Methoden von __OPNsense__ und die technischen Hintergr&uuml;nde.
+Jedes Kapitel erl&auml;utert eine Problemsituation, beschreibt die theoretischen Grundlagen und stellt ein Laborexperiment zur Nachahmung vor. Abschließend zeigt es den L&ouml;sungsansatz mit Methoden von __OPNsense__ und die technischen Hintergr&uuml;nde.
 
 
 ## Reinschnuppern

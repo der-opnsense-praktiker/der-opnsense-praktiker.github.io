@@ -47,7 +47,6 @@
 * Durchsatz
 * Best Practice
 * Zusätzliche Filter
-* GeoIP
 * Technischer Hintergrund
 * Reihenfolge der Abarbeitung
 * Fehlersuche
@@ -126,7 +125,6 @@
 * TLS Inception
 * Transparenter Proxy
 * Technischer Hintergrund
-* Was geht nicht?
 * Ausblick
 
 #### 15. Zentrale Authentifizierung
@@ -207,6 +205,7 @@
 * Telegram
 * Firewallregeln mit Kategorien
 * Schnellsuche
+* Snapshots
 
 #### 24. Application Programming Interface
 * Wie funktioniert die API?
