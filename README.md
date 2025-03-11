@@ -2,8 +2,7 @@
 
 Simple Paketfilter waren gestern. Selbst im Open-Source-Bereich sind die Next-Generation Firewalls angekommen. Und [OPNsense](https://opnsense.org/) mischt ganz vorn mit, wenn es um Einbruchserkennung, Applikationskontrolle, Web-Filter oder Antivirus geht.
 
-__Die f&uuml;nfte Auflage ist erh&auml;ltlich ab April 2025 als gedrucktes Buch. Das E-Book ist ab Mai 2025 verf&uuml;gbar.__
-
+__Die f&uuml;nfte Auflage ist erh&auml;ltlich seit M&auml;rz 2025 als gedrucktes Buch. Das E-Book erscheint im Mai 2025.__
 
 Ein Blick ins [Inhaltsverzeichnis](Inhaltsverzeichnis.md).
 
@@ -36,7 +35,7 @@ Fast alle Kapitel benutzen denselben Netzaufbau und diegleichen IPv4/IPv6-Adress
 
 * Das [Korrekturverzeichnis](errata.pdf) listet die inhaltlichen Fehler und ihre Verbesserung.
 
-* Buch kaufen bei [Amazon](https://amzn.to/3Hp6JPz) (Affiliate-Link) oder [BoD](https://www.bod.de/buchshop/der-opnsense-praktiker-markus-stubbig-9783751920469)
+* Buch kaufen bei [Amazon](https://amzn.to/4iIYUUX) (Affiliate-Link) oder [BoD](https://buchshop.bod.de/der-opnsense-praktiker-markus-stubbig-9783769378498)
 
 * E-Book kaufen bei [Amazon](https://amzn.to/421xPnC) (Affiliate-Link) oder [Bookrix](https://www.bookrix.de/_ebook-markus-stubbig-der-opnsense-praktiker/)
 
